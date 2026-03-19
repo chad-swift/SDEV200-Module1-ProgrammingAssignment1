@@ -16,7 +16,7 @@ public class Main {
                 new Double[] { 20.0, 25.0, 30.0, 35.0, 40.0, 45.0, 50.0, 55.0, 60.0, 65.0 }
         );
 
-        // Creating the table with data
+        // Test the data and create the table
         tester.testAndPrintTable();
 
     }
