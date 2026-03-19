@@ -1,6 +1,6 @@
 package org.example;
 
-// Feet Converter Program
+// Measurement Converter Program
 // Program that converts Feet to Meters and Meters to Feet
 // Chad Swift
 // SDEV200-50P
